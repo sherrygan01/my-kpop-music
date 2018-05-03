@@ -1,0 +1,11 @@
+.Artists {
+   display: inline;
+   border:none;
+   
+   min-height: 400px;
+}
+.imgArtist {
+    display: block;
+    width: 300px;
+    height: 300px; 
+}

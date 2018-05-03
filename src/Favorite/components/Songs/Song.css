@@ -1,0 +1,30 @@
+.img {
+    margin-top: 5px;
+    width: 160px;
+    height: 160px;
+}
+
+.button {
+    
+    height: 30px;
+}
+
+
+.Song {
+    float: left;
+  
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    width: 170px;
+    height:270px;
+    border: 2px solid none;
+    -webkit-border-radius: 13px;
+    border-radius: 13px;
+    font: normal 14px/1 "Times New Roman", Times, serif;
+    color: rgba(0,0,0,1);
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    background-color: #b7b7b7;
+  }
+  

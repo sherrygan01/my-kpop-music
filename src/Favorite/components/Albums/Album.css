@@ -1,0 +1,49 @@
+.img{
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px;
+    width: 160px;
+    height: 160px;
+    border: 2px solid palegoldenrod;
+}
+
+.Album{
+    margin-top:3px;
+    display: block;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    width: 98%;
+    height:auto ;
+    min-height: 200px;
+    border: 2px solid powderblue;
+    -webkit-border-radius: 13px;
+    border-radius: 13px;
+    font: normal 14px/1 "Times New Roman", Times, serif;
+    color: rgba(0,0,0,1);
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    background-color:#b7b7b7;
+  }
+
+  .Playlist {
+      
+      display: inline-block;
+  }
+
+  .Track {
+      display: block;
+      margin-left: 9%;
+      text-align: left;
+      font-size: 15px;
+      /*border: 2px solid palegoldenrod;*/
+      border-bottom: 1px solid papayawhip;
+      margin-top: none;
+
+  }
+
+  .Trackbutton {
+    display: inline;
+    
+
+}

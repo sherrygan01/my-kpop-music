@@ -1,0 +1,11 @@
+.Albums {
+    
+    box-sizing:border-box;
+	-webkit-box-sizing:border-box; /* Firefox */
+	width:98%;
+	border: 2px solid rgb(167, 160, 160) ;
+    float:left;
+   
+  
+}
+
